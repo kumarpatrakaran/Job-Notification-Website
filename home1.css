@@ -1,0 +1,89 @@
+ #footer {
+            position: fixed;
+            padding: 10px 10px 0px 10px;
+            bottom: 0;
+            width: 100%;
+            /* Height of the footer*/ 
+            height: 40px;
+            background:DarkSalmon;
+        }
+        #header{
+
+        position: fixed;
+        padding: 10px 10px 10px 10px;
+        top: 0;
+        width: 100%;
+        height: 100px;
+        background:DarkSalmon;
+        }
+    
+  #main {
+  margin: 160px 160px 160px 160px; /* Same as the width of the sidenav */
+  font-size: 28px; /* Increased text to enable scrolling */
+ padding: 0px 10px;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  padding-right:100px; 
+}
+.topnav a {
+  float:right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 50px 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+  }
+  table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+  th, td {
+  padding:  5px;
+  text-align: left;
+}
+#bo {
+  background-color: lightgrey;
+ text-align: center;
+  border: 5px solid green;
+  padding: 5px 1px 5px 5px;
+  margin: 20px 1050px 1px 1px;
+}
+
+th{
+  background-color: #88b393;
+}
+th:hover{
+  background-color: #dff2e4;
+}
+#t{
+  border: 1px solid black;
+  padding: 5px;
+}
+#ta{
+   border-spacing: 15px;
+}
+#nt{
+ border: 1px solid black;
+  padding: 5px;
+}
+#l{
+  margin: -200px 100px 10px 10px;
+}
+caption{
+  background-color: black;
+  color: white;
+
+}
+a {
+  text-decoration: none;
+}
+th{
+   color:white;
+
+}
